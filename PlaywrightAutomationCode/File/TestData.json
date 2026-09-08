@@ -1,0 +1,32 @@
+{
+    "TestData1": {
+        "Name": "Sai Charan",
+        "Email": "Saicharan@gmail.com",
+        "Phone": "9988998899",
+        "Address": "Hyderabad",
+        "Wikipedia": "Testing",
+        "field1": "Goodmorning",
+        "field2": "bye bye",
+        "dropdown":"Red"
+    },
+    "TestData2": {
+        "Name": "Sai teja",
+        "Email": "Saiteja@gmail.com",
+        "Phone": "9090909090",
+        "Address": "China",
+        "Wikipedia": "Testing",
+        "field1": "Goodmorning",
+        "field2": "bye bye",
+        "dropdown":"Green"
+    },
+    "TestData3": {
+        "Name": "Sai teja pasthula",
+        "Email": "saiteja9999@gmail.com",
+        "Phone": "7330719596",
+        "Address": "bhimavaram",
+        "Wikipedia": "working",
+        "field1": "Goodmorning",
+        "field2": "bye bye",
+        "dropdown":"Green"
+    }
+}
